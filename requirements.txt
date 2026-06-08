@@ -1,6 +1,8 @@
 numpy
 pandas 
 seaborn
--e .
+matplotlib
+scikit-learn
+# -e .
 
  #this will automatically triggers set.py file and install the package in editable mode, so that any changes made to the code will be reflected without needing to reinstall the package.
